@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+body,div,h1,h2,h3,header,nav,footer,section,ul,li,a,span,p,img,button,address,select,option,optgroup,option,div
+{margin:0;padding:0;}
+img{border:none;}
+a{text-decoration: none;}
+ul{list-style: none;}
+
+body,input,button{font-family: 'Noto Sans KR','본고딕',dotum,'돋움',sans-serif;color:#222;font-size:14px;font-weight: 400;}
+
+header,section,article,aside,nav{display: block;}
+ul{list-style: none;}
+
+a:link,a:visited{text-decoration: none;color:#222;}
+
+a:hover,a:active,a:focus{text-decoration: underline;}
+
+input,button,img{vertical-align: middle;}
+h1,h2,h3{font-size: 1em;}
